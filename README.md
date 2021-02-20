@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noor Mohammad aka Noor Coder</h1>
+<h1 align="center">Hi 👋, I'm Noor Mohammad aka "Noor Coder"</h1>
 <h3 align="center">A passionate self-taught programmer who is exploring different domains in tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="noor-ansari" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noor-Ansari](https://github.com/Noor-Ansari)
 
-- 📝 I am regularly on my instagram [https://www.instagram.com/noor_coder/](https://www.instagram.com/noor_coder/)
+- 📝 I am regularly active on my instagram [https://www.instagram.com/noor_coder/](https://www.instagram.com/noor_coder/)
 
 - 💬 Ask me about **react.js, python, machine learning.**
 
