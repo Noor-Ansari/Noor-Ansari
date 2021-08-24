@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="noor-ansari" /> </p>
 
-- 🔭 I’m currently working on **netflix-clone**
+- 🔭 I’m currently working  **as Frontend developer at BrainerHub Solutions**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **pinterest-clone**
+- 👯 I’m looking to collaborate on **Full-stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noor-Ansari](https://github.com/Noor-Ansari)
 
 - 📝 I am regularly active on my instagram [https://www.instagram.com/noor_coder/](https://www.instagram.com/noor_coder/)
 
-- 💬 Ask me about **react.js, python, machine learning.**
+- 💬 Ask me about **React.js, DSA, Vue.js**
 
 - 📫 How to reach me **nooransaripro@gmail.com**
 
