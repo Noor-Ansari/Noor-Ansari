@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="noor-ansari" /> </p>
 
-- 🔭 I’m currently working  **as a frontend developer at WhizCo**
+- 🔭 I’m currently working  **as a UI developer at Walmart Global Tech**
 
 - 🌱 I’m currently learning **DSA**
 
