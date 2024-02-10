@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noor-Ansari](https://github.com/Noor-Ansari)
 
-- 📝 I am regularly active on my instagram [https://www.instagram.com/noor_coder/](https://www.instagram.com/noor_coder/)
-
 - 💬 Ask me about **React.js, DSA, Vue.js**
 
 - 📫 How to reach me **nooransaripro@gmail.com**
